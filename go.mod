@@ -50,7 +50,7 @@ require (
 	github.com/spf13/viper v1.13.0
 	github.com/stretchr/testify v1.8.1
 	github.com/temporalio/roadrunner-temporal/v2 v2.0.0-beta.3
-	go.buf.build/protocolbuffers/go/roadrunner-server/api v1.3.20
+	go.buf.build/protocolbuffers/go/roadrunner-server/api v1.3.21
 )
 
 require (
@@ -66,17 +66,18 @@ require (
 	github.com/google/btree v1.1.2 // indirect
 	github.com/google/flatbuffers v22.10.26+incompatible // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.12.0 // indirect
-	github.com/hashicorp/go-msgpack v1.1.5 // indirect
+	github.com/hashicorp/go-msgpack v1.1.6 // indirect
 	github.com/hashicorp/memberlist v0.5.0 // indirect
 	github.com/klauspost/compress v1.15.12 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/nats-io/jwt/v2 v2.3.0 // indirect
-	github.com/nats-io/nats.go v1.18.0 // indirect
+	github.com/nats-io/nats.go v1.19.0 // indirect
 	github.com/prometheus/client_model v0.3.0 // indirect
 	github.com/rivo/uniseg v0.4.2 // indirect
 	github.com/valyala/fasthttp v1.41.0 // indirect
 	github.com/xujiajun/nutsdb v0.10.0 // indirect
 	github.com/xujiajun/utils v0.0.0-20220904132955-5f7c5b914235 // indirect
+	go.buf.build/grpc/go/roadrunner-server/api v1.4.21 // indirect
 	go.etcd.io/etcd/client/v3 v3.5.5 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.36.4 // indirect
 	go.opentelemetry.io/contrib/propagators/jaeger v1.11.1 // indirect
@@ -88,5 +89,5 @@ require (
 	go.temporal.io/server v1.18.3 // indirect
 	golang.org/x/time v0.1.0 // indirect
 	golang.org/x/tools v0.2.0 // indirect
-	google.golang.org/genproto v0.0.0-20221025140454-527a21cfbd71 // indirect
+	google.golang.org/genproto v0.0.0-20221027153422-115e99e71e1c // indirect
 )
